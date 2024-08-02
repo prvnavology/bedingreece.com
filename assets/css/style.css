@@ -64,8 +64,10 @@ img {
 }
 
 /* 
-for Blue color #4e0416  #0c3b2e  #10475e
+for Blue color #4e0416  #0c3b2e  #10475e  #ffefcd 
 for body #c8c7e7
+#a58e74
+#e09132
 */
 
 /* Global CSS End */
@@ -161,6 +163,7 @@ for body #c8c7e7
 
 .site-header.fixed-header {
 background-color: #1c9290;
+background-color: #e09132;
   border-bottom: none;
 }
 
