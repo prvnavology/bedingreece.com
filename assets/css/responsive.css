@@ -1,0 +1,609 @@
+@media screen and (max-width:1200px) {
+
+    /* Privacy Policy CSS Start */
+    .privacy-policy-group .heading-like {
+        font-size: 17px;
+    }
+
+    /* Privacy Policy CSS End */
+
+    /* Contact US CSS Start */
+    .contact-us-group .heading-like {
+        font-size: 17px;
+    }
+
+    /* Contact US CSS End */
+
+
+
+
+
+
+}
+
+@media screen and (max-width:992px) {
+
+    .menu-icon {
+        font-size: 20px;
+        padding: 3px 10px;
+    }
+
+    .banner-image {
+        height: 500px;
+    }
+
+
+    .banner-text h1 {
+        font-size: 50px;
+    }
+
+    .home-page-cards-content a h3 {
+        font-size: 26px;
+        max-width: 200px;
+    }
+
+    /* Pages CSS Start */
+    .pages-banner-text h1 {
+        font-size: 40px;
+    }
+
+    .pages-cards {
+        padding: 10px;
+    }
+
+    .pages-cards-content {
+        padding: 15px;
+    }
+
+    .pages-cards-text-group p,
+    .pages-cards-content ul li,
+    .pages-cards-content p {
+        font-size: 15px;
+    }
+
+    .pages-intro-wrapper p,
+    .pages-after-cards-text-wrapper p {
+        font-size: 16px;
+    }
+
+    /* Contact US CSS Start */
+    .contact-us-group p {
+        font-size: 15px;
+    }
+
+    /* Contact US CSS End */
+
+    /* Privacy Policy CSS Start*/
+    .privacy-policy-group ul li,
+    .privacy-policy-group p {
+        font-size: 15px;
+    }
+
+    .privacy-policy-group h3 {
+        font-size: 20px;
+    }
+
+    .privacy-policy-group {
+        padding: 15px;
+    }
+
+    /* Privacy Policy CSS End */
+
+    /* Terms Conditions CSS Start */
+    .terms-conditions-content {
+        padding: 40px 0;
+    }
+    .terms-conditions-group p,
+    .terms-conditions-group ul li {
+        font-size: 15px;
+    }
+    .pages-after-cards-text-section {
+        padding-bottom: 40px;
+    }
+    .terms-conditions-group h3 {
+        font-size: 20px;
+     }
+    /* Terms Conditions CSS End */
+
+    /* Pages CSS End */
+
+    
+    /* Cookies CSS Start */
+    #cookie-bar button {
+        float: left;
+        padding: 7px 15px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    #cookie-bar p {
+        font-size: 14px;
+        line-height: 20px;
+        width: 100%;
+    }
+
+    #contentcookie {
+        padding: 20px 10px;
+        width: 100%;
+    }
+    /* Cookies CSS End */
+}
+
+@media screen and (max-width:768px) {
+    .contact {
+        display: none;
+    }
+
+    .logo {
+        text-align: left;
+        width: 100%;
+    }
+
+    .menu-icon-container {
+        order: 1;
+        text-align: right;
+    }
+
+    .menu-icon {
+        font-size: 19px;
+        padding: 6px 10px;
+        border-width: 1px;
+    }
+
+    .desktop-menu-option-hide {
+        display: block;
+    }
+
+   
+    .banner-image {
+        height: 400px;
+    }
+
+    .banner-text h1 {
+        font-size: 45px;
+    }
+
+    .home-page-content {
+        padding: 40px 0;
+    }
+
+    .home-page-cards {
+        width: 48%;
+        margin-bottom: 25px;
+    }
+
+    .home-page-cards-content a h3 {
+        font-size: 25px;
+        max-width: 200px;
+        margin: 0 auto;
+    }
+
+    .home-page-cards-image {
+        height: 300px;
+    }
+
+    .footer-items {
+        padding: 0;
+    }
+
+    .footer-items h3 {
+        font-size: 20px;
+    }
+
+    .footer-items ul li a {
+        font-size: 15px;
+    }
+
+    .footer-links {
+        order: 1;
+    }
+
+    .footer-quick-links {
+        order: 1;
+    }
+
+    .social-icons i {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+    }
+
+    .copyright p {
+        font-size: 14px;
+    }
+
+    /* Pages CSS Start */
+    .pages-banner-text h1 {
+        font-size: 40px;
+    }
+
+    .pages-cards-section {
+        padding: 40px 0;
+    }
+
+    .pages-link-btn {
+        padding: 9px 9px;
+        font-weight: 600;
+        font-size: 14px;
+    }
+
+    .pages-intro-wrapper p,
+    .pages-after-cards-text-wrapper p {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .pages-cards-image,
+    .pages-cards-content {
+        width: 100%;
+        border-radius: 5px;
+    }
+
+    .pages-cards-image {
+        height: 290px;
+    }
+
+    .pages-cards-content {
+        padding: 20px 5px 0;
+    }
+
+    .pages-cards-content h2 {
+        font-size: 22px;
+    }
+
+    /* Contact Us CSS Start */
+    .contact-us-group {
+        margin-bottom: 20px;
+    }
+
+    .contact-us-group p {
+        font-size: 14px;
+    }
+
+    .contact-us-group h3 {
+        font-size: 20px;
+    }
+
+    .contact-us-group .heading-like {
+        font-size: 16px;
+    }
+
+    /* Contact Us CSS End */
+    /* Privacy Policy CSS Start */
+
+    .privacy-policy-group .heading-like {
+        font-size: 16px;
+    }
+
+    .privacy-policy-group h3 {
+        font-size: 20px;
+    }
+    .privacy-policy-group h3 {
+        font-size: 19px;
+    }
+
+    /* Privacy Policy CSS End */
+
+    /* Terms Conditions CSS Start */
+    .terms-conditions-group h3 {
+        font-size: 19px;
+     }
+
+    /* Terms Conditions CSS End */
+    /* Pages CSS End */
+        /* Cookies CSS Start */
+        #cookie-bar button {
+            font-size: 13px;
+        }
+    
+        #cookie-bar p {
+            font-size: 13px;
+        }
+    
+        /* Cookies CSS End */
+
+}
+
+@media screen and (max-width:576px) {
+    .menu-icon {
+        font-size: 18px;
+
+    }
+    .main-navbar {
+        width: 100%;
+    }
+
+    .logo-bottom.footer-items {
+        text-align: left;
+    }
+
+    .social-icons div {
+        width: 100%;
+        margin-top: 2px;
+    }
+
+    .social-icons {
+        text-align: left;
+    }
+
+    .logo img {
+        max-width: 185px;
+    }
+
+    .close-icon {
+        font-size: 13px;
+    }
+
+    .banner-image {
+        height: 350px;
+    }
+
+    .banner-text h1 {
+        font-size: 35px;
+    }
+
+    .home-page-content {
+        padding: 35px 0;
+    }
+
+    .home-page-content-text p {
+        font-size: 15px;
+    }
+
+    .home-page-cards-content a h3 {
+        font-size: 22px;
+    }
+
+    .home-page-cards-image {
+        height: 250px;
+    }
+
+    .footer-items {
+        width: 47%;
+    }
+
+    .logo-bottom img {
+        width: 90%;
+        max-width: 230px;
+    }
+
+    .footer .footer-items ul li a {
+        font-size: 14px;
+    }
+
+    .copyright p {
+        font-size: 13px;
+    }
+
+    /* Pages CSS Start */
+    .pages-banner-text h1 {
+        font-size: 30px;
+    }
+
+    .pages-intro-wrapper p,
+    .pages-after-cards-text-wrapper p {
+        font-size: 14px;
+    }
+
+
+    .pages-cards {
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .pages-cards-image {
+        height: 250px;
+    }
+
+    .pages-cards-content h2 {
+        font-size: 20px;
+    }
+
+    .pages-cards-text-group p,
+    .pages-cards-content ul li,
+    .pages-cards-content p {
+        font-size: 14px;
+    }
+
+    .pages-link-btn {
+        padding: 9px 10px;
+        font-size: 13px;
+        font-weight: 600;
+    }
+
+    /* Contact Us CSS Start */
+    .contact-us-group p {
+        font-size: 13px;
+    }
+
+    /* Contact Us CSS End */
+
+    /* Privacy Policy CSS Start */
+    .privacy-policy-group h3 {
+        font-size: 18px;
+    }
+
+    .privacy-policy-group ul li,
+    .privacy-policy-group p {
+        font-size: 14px;
+    }
+
+    .privacy-policy-group h4 {
+        font-size: 15px;
+    }
+
+    /* Privacy Policy CSS End */
+
+    /* Terms Conditions CSS Start */
+    .terms-conditions-group p,
+    .terms-conditions-group ul li {
+        font-size: 14px;
+    }
+    .terms-conditions-group h3 {
+        font-size: 18px;
+     }
+    /* Terms Conditions CSS End */
+    /* Pages CSS End */
+
+        /* Cookies CSS Start */
+        #cookie-bar p {
+            font-size: 13px;
+        }
+    
+        /* Cookies CSS End */
+
+}
+
+@media screen and (max-width:480px) {
+    .menu-icon {
+        font-size: 16px;
+    }
+
+    .banner-image {
+        height: 300px;
+    }
+
+    .banner-text h1 {
+        font-size: 35px;
+    }
+
+    .home-page-content {
+        padding: 30px 0;
+    }
+
+    .home-page-content-text p {
+        font-size: 14px;
+    }
+
+    section.home-page-cards-section {
+        padding: 0 0 45px 0;
+    }
+
+    .home-page-cards {
+        width: 100%;
+    }
+
+    .home-page-cards:last-child {
+        margin-bottom: 0;
+    }
+
+
+    .home-page-cards-content a h3 {
+        font-size: 20px;
+    }
+
+    .footer-items {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .footer-items:last-child {
+        margin-bottom: 0;
+    }
+
+    .logo-bottom.footer-items {
+        text-align: center;
+    }
+
+    .social-icons {
+        text-align: center;
+    }
+
+    .copyright p {
+        font-size: 12px;
+    }
+
+    /* Pages CSS Start */
+    .pages-banner-text h1 {
+        font-size: 25px;
+    }
+
+    .pages-intro {
+        padding-top: 40px;
+    }
+
+    .pages-intro-wrapper p,
+    .pages-after-cards-text-wrapper p {
+        font-size: 13px;
+    }
+
+    .pages-cards-section {
+        padding: 40px 0;
+    }
+
+    .pages-cards-image {
+        height: 200px;
+    }
+
+    .pages-cards-content h2 {
+        font-size: 18px;
+    }
+
+    .pages-cards-text-group p,
+    .pages-cards-content ul li,
+    .pages-cards-content p {
+        font-size: 13px;
+    }
+
+    .pages-link-btn {
+        font-size: 12px;
+    }
+
+    /* Contact Us CSS Start */
+    section.contact-us-content {
+        padding: 40px 0;
+    }
+
+    .contact-us-wrapper h2 {
+        margin: 0 auto 20px auto;
+        font-size: 18px;
+    }
+
+    .contact-us-group {
+        padding: 10px;
+    }
+
+    .contact-us-group ul li a,
+    .contact-us-group p a {
+        font-size: 13px;
+    }
+
+    .contact-us-group h3 {
+        font-size: 18px;
+    }
+
+    .contact-us-group p {
+        font-size: 13px;
+    }
+
+   
+
+    /* Contact Us CSS End */
+
+    /* Privacy Policy CSS Start */
+    .privacy-policy-group h3 {
+        font-size: 17px;
+    }
+
+    .privacy-policy-group ul li,
+    .privacy-policy-group p {
+        font-size: 13px;
+    }
+
+    /* Privacy Policy CSS End */
+
+    /* Terms Conditions CSS Start */
+    .terms-conditions-group p,
+    .terms-conditions-group ul li {
+        font-size: 13px;
+    }
+    .terms-conditions-group h3 {
+          font-size: 17px;
+       }
+    /* Terms Conditions CSS End */
+
+    /* Pages CSS End */
+
+
+}
